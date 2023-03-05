@@ -25,7 +25,8 @@ Hi there! Welcome to my Github!<br>
 - Developed (...) [00.00~00.00]
 
 ## 🏆 Awards
-- Contest - President's Award
+- Seoul Citizens' Award for Creative Science and Arts - Mayors of Seoul
+- Thailand Inventors’ Day & Bangkok International Intellectual Property, Invention, Innovation And Technology Exposition (IPITEx) - National Research Council of Thailand
 <!-- 
 ### 하루하루 성장하는 **김차헌**입니다.
 
