@@ -2,6 +2,9 @@
  -->
 # JongYoon Won
 Hi there! Welcome to my Github!<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=zibb03" height="165">
+
 <!-- I am a student studying computer Engineering.<br>
  -->
 ## 🎓 Education
