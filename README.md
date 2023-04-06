@@ -7,7 +7,7 @@ Hi there! Welcome to my Github!<br>
 
 <!-- I am a student studying computer Engineering.<br>
  -->
-## 🎓 Education
+<!-- ## 🎓 Education
 - Hankuk University of Foreign Studies, Information Communication Engineering, undergraduate
 
 ## 📫 How to reach me
@@ -16,7 +16,7 @@ Hi there! Welcome to my Github!<br>
 <a href="https://www.facebook.com/profile.php?id=100018771584733" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/zibb-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/><br>
 <a href="https://www.linkedin.com/in/jongyoon-won-b08509237/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UC79Ip_nFNiUxP6B8b7vcdbg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UC79Ip_nFNiUxP6B8b7vcdbg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a> -->
 <!-- <a href="https://heo-seongil.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-F56C2D?style=flat-square&logo=Opsgenie&logoColor=white"/></a> -->
 
 
