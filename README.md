@@ -64,11 +64,12 @@ Hi there! Welcome to my Github!<br>
 [SQL](https://heoni00.github.io/categories/sql) (MySQL, DB구축) / [Python](https://github.com/heoni00/Python) (Pandas, Numpy, Matplotlib, folium)  
 R (통계 라이브러리, ggplot) / EXCEL / SPSS  -->
 
+<!-- 
 ## 📜 Certificate
 
 - 네트워크관리사 2급 
 
-<!-- ## 🛠 Skills
+## 🛠 Skills
 <center>
  <table width="100%">
  <tr width="100%">
