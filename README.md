@@ -67,7 +67,7 @@
 
 ### 🎓 선수개념 진단 RAG 튜터
 
-한국외국어대학교 창의·인성 경진대회 · 2026
+한국외국어대학교 창의·인성 경진대회 · 2026 · [Live Demo](https://hufs-ares-prereq-tutor-supabase.vercel.app/)
 
 **Tech**
 
@@ -105,7 +105,7 @@
 
 ### 🌐 Bridgenote AI
 
-멋쟁이사자처럼 대학 14기 중앙 해커톤 〈애니멀리그〉 LIKELION TRACK · 팀 또이또이 · **입상**
+멋쟁이사자처럼 대학 14기 중앙 해커톤 〈애니멀리그〉 LIKELION TRACK · 팀 또이또이 · **입상** · [Live Demo](https://fe-bridgemote.vercel.app/)
 
 **Tech**
 
