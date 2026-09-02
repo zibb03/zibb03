@@ -1,6 +1,6 @@
 <div align="center">
 
-## 안녕하세요, 백엔드·인프라를 넘나드는 개발자 원종윤입니다 👋
+## 안녕하세요, 백엔드와 인프라를 넘나드는 개발자 원종윤입니다 👋
 
 시스템을 안정적으로 운영하는 일과, 그 위에서 새로운 것을 만드는 일 모두에 관심이 있습니다.
 
@@ -30,10 +30,10 @@
 
 ## 💼 Career
 
-- **2026 ~** : 학과 AI보안관제센터 상황실장 / 인프라개발팀 팀장
-  - 2026-1 : 학과장특별장학생 선정, 서버관리조교로 근무 (기자재·유지보수)
+- **2026 ~ 현재** : 학과 AI보안관제센터 상황실장 / 인프라개발팀 팀장
+  - 2026-1 : 학과장특별장학생 선정, 서버관리조교로 근무 (기자재, 유지보수)
   - 2026-2 : 알고리즘설계와해석 수업조교(TA)
-- **2026 ~** : 한국외국어대학교 멋쟁이사자처럼 14기 (백엔드)
+- **2026 ~ 현재** : 한국외국어대학교 멋쟁이사자처럼 14기 (백엔드)
 
 </br>
 
@@ -67,7 +67,7 @@
 
 ### 🎓 선수개념 진단 RAG 튜터
 
-한국외국어대학교 창의·인성 경진대회 · 2026 · [Live Demo](https://hufs-ares-prereq-tutor-supabase.vercel.app/)
+한국외국어대학교 창의인성 경진대회 | 2026 | [Live Demo](https://hufs-ares-prereq-tutor-supabase.vercel.app/)
 
 **Tech**
 
@@ -85,7 +85,7 @@
 
 ### 🛰️ ARES 관리 대시보드
 
-학과 AI보안관제센터 · [ares.hufs.ac.kr](https://ares.hufs.ac.kr)
+학과 AI보안관제센터 | [ares.hufs.ac.kr](https://ares.hufs.ac.kr)
 
 **Tech**
 
@@ -94,7 +94,7 @@
 **Highlights**
 
 - 학과 AI보안관제센터 실서비스 관리 대시보드 프론트엔드 기여
-- 민원·알림·공지 기능 개발
+- 민원, 알림, 공지 기능 개발
 - 로그인 여부별 공개 페이지 분리, 반응형 UI
 
 </td>
@@ -105,7 +105,7 @@
 
 ### 🌐 Bridgenote AI
 
-멋쟁이사자처럼 대학 14기 중앙 해커톤 〈애니멀리그〉 LIKELION TRACK · 팀 또이또이 · **입상** · [Live Demo](https://fe-bridgemote.vercel.app/)
+멋쟁이사자처럼 대학 14기 중앙 해커톤 〈애니멀리그〉 LIKELION TRACK | 팀 또이또이 | **입상** | [Live Demo](https://fe-bridgemote.vercel.app/)
 
 **Tech**
 
@@ -113,9 +113,9 @@
 
 **Highlights**
 
-- 다국어 회의 문화 오해 감지·번역·회의록 생성 AI 서버 단독 개발
+- 다국어 회의 문화 오해 감지, 번역, 회의록 생성 AI 서버 단독 개발
 - 임베딩 유사도 기반 판정 게이트 설계
-- 평가셋 시드 누수 발견·재구성
+- 평가셋 시드 누수 발견 및 재구성
 - F1 **0.88 → 0.93** 개선
 
 </td>
@@ -124,7 +124,7 @@
 
 ### 🚗 UWB 시트 포지션 제어
 
-제20회 임베디드 소프트웨어 경진대회 · 2022.08 ~ 2022.10
+제20회 임베디드 소프트웨어 경진대회 | 2022.08 ~ 2022.10
 
 **Tech**
 
@@ -144,15 +144,15 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 🎮 **[NEOLIZ](https://github.com/2ya-NEOLIZ/BE)** | 멋쟁이사자처럼 백엔드, 이모지 캐치·데일리 퀴즈 API 7종 개발 | Java, Spring, Git Flow |
-| 🚦 **[BDD100K 물체 인식](https://github.com/zibb03/Road-Object-Detection)** | 자율주행 도로 이미지 물체 인식 모델 개발, 데이터 전처리·optimizer 비교 | Python, MobileNet |
+| 🎮 **[NEOLIZ](https://github.com/2ya-NEOLIZ/BE)** | 멋쟁이사자처럼 백엔드, 이모지 캐치, 데일리 퀴즈 API 7종 개발 | Java, Spring, Git Flow |
+| 🚦 **[BDD100K 물체 인식](https://github.com/zibb03/Road-Object-Detection)** | 자율주행 도로 이미지 물체 인식 모델 개발, 데이터 전처리, optimizer 비교 | Python, MobileNet |
 | 🌬️ **[Ventilation AI](https://github.com/zibb03/Ventilation-AI)** | 인공 신경망을 활용한 환기 시스템, LG CNS AI Genius Academy 우수상 | Python |
 
 </br>
 
 ## 🏆 Awards
 
-- **2026.08** : 제21회 한국외국어대학교 창의·인성 경진대회 (Better World 아이디어 공작소) 대상
+- **2026.08** : 제21회 한국외국어대학교 창의인성 경진대회 (Better World 아이디어 공작소) 대상
 - **2026.08** : 2026-1 한국외국어대학교 HUFStudy(학습공동체) 우수상
 - **2022.08 ~ 10** : 제20회 임베디드 소프트웨어 경진대회 본선 진출
 - **2022.08.24** : 제26회 서울특별시 전국 ICT 창의성 대회 은상
@@ -172,7 +172,7 @@
 ## 🙋 EdTech Career (총 3년)
 
 **한국외국어대학교 AI교육원 SW 봉사단**
-- 2022 : 기획팀 · 2023 : 단원
+- 2022 : 기획팀 / 2023 : 단원
 - 2022.05 ~ 07 : 덕영고등학교 Python 보조강사
 - 2022.11 ~ 2023.01 : 덕영고등학교 C언어 보조강사
 
@@ -182,7 +182,7 @@
 - 2022.09 : LG 디스커버리랩 서울 보조강사
 - 2022.11 : 제3회 유스해커톤 멘토
 - 2023.01 : 디지털 새싹 캠프 강사
-- 2023.03 ~ 08 : 마이크로소프트 Azure 활용 AI 웹·앱 클라우드 교육과정
+- 2023.03 ~ 08 : 마이크로소프트 Azure 활용 AI 웹, 앱 클라우드 교육과정
 - 2023.06 ~ 11 : 2023 LG CNS AI Genius Academy 운영 참여
 - 2023.07 ~ 08 : 충남 INNOST Digital Academy 콘텐츠 제작팀
 - 2025.11 ~ 2026.02 : 삼성 Solve For Tomorrow 교육과정 콘텐츠 제작팀
